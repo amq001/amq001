@@ -102,35 +102,6 @@ I build **scalable, high-performance web applications** and **AI-powered platfor
 
 ---
 
-## 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛍️ Sales Dot PK</h3>
-      <p>E-commerce platform with React.js, Redux state management, and Stripe payment integration for secure transactions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Redux-593d88?style=flat-square&logo=redux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
-      </p>
-      <a href="https://salesdotpk.netlify.app">🔗 Live Demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💬 Collab</h3>
-      <p>Real-time chat application with Socket.IO, built with React.js, Node.js, Express.js, Zustand, and Arcjet rate limiting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white" />
-      </p>
-      <a href="https://collab-cdvg6.sevalla.app">🔗 Live Demo</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🏆 Achievements
 
 | 🥇 | Description |
